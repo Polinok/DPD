@@ -1,2 +1,2 @@
 # DPD
-Here are collected various programs for solving DPD problem.
+Here are various programs for solving DPD problem.
